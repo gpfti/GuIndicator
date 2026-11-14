@@ -1,0 +1,6 @@
+# NinjaTrader necesita CRLF en los .cs (con LF mezclado duplica el bloque generado)
+*.cs  text eol=crlf
+*.md  text
+*.png binary
+*.jpg binary
+*.zip binary

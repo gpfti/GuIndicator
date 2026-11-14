@@ -1,0 +1,17 @@
+# Configuración local de herramientas
+.claude/
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Artefactos de NinjaTrader / compilación
+bin/
+obj/
+*.dll
+*.pdb
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
