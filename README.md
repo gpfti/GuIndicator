@@ -42,8 +42,8 @@ Todas las líneas son de 1 px y ocupan todo el ancho del gráfico.
 1. Copia `GuIndicator.cs` en `Documentos\NinjaTrader 8\bin\Custom\Indicators\`.
 2. En NinjaTrader: *New → NinjaScript Editor*, abre `GuIndicator` y pulsa **F5** para compilar.
 
-**Opción B – importar (si hay .zip en Releases)**
-1. Descarga el `.zip` de la sección *Releases*.
+**Opción B – importar .zip**
+1. Descarga [GuIndicator.zip](https://github.com/gpfti/GuIndicator/releases/latest/download/GuIndicator.zip) (o desde [Releases](https://github.com/gpfti/GuIndicator/releases)).
 2. En NinjaTrader: *Tools → Import → NinjaScript Add-On…* y selecciona el `.zip`.
 
 Después: clic derecho en el gráfico → *Indicators…* → **GuIndicator**.
@@ -109,8 +109,8 @@ All lines are 1 px and span the full chart width.
 1. Copy `GuIndicator.cs` to `Documents\NinjaTrader 8\bin\Custom\Indicators\`.
 2. In NinjaTrader: *New → NinjaScript Editor*, open `GuIndicator` and press **F5** to compile.
 
-**Option B – import (if a .zip is available in Releases)**
-1. Download the `.zip` from *Releases*.
+**Option B – import .zip**
+1. Download [GuIndicator.zip](https://github.com/gpfti/GuIndicator/releases/latest/download/GuIndicator.zip) (or from [Releases](https://github.com/gpfti/GuIndicator/releases)).
 2. In NinjaTrader: *Tools → Import → NinjaScript Add-On…* and pick the `.zip`.
 
 Then: right-click the chart → *Indicators…* → **GuIndicator**.
